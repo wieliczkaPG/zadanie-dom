@@ -1,4 +1,3 @@
-@@ -2,7 +2,7 @@ KONWERSJA LICZB Z RÓŻNYCH SYSTEMÓW LICZBOWYCH
  ===========================================
  Konwersja liczb z systemu 10 na 2.
  ---------------------------------------------
