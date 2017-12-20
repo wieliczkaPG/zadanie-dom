@@ -1,5 +1,5 @@
 ===========================================
-Konwersja liczb z systemu 10 na 2.
+ Konwersja liczb z systemu 10 na 2.
 ---------------------------------------------
 -## 1 metoda(dzielenie) liczbe zapisaną w systemie dziesiętnym dzielimy przez 2 jeśli wynik jest bez reszty piszemy 0 jeśli z resztą 1 tak do końca
 +##### 1 metoda(dzielenie) liczbe zapisaną w systemie dziesiętnym dzielimy przez 2 jeśli wynik jest bez reszty piszemy 0 jeśli z resztą 1 tak do końca
