@@ -1,4 +1,3 @@
-@@ -1,43 +1,43 @@
  POZYCYJNE SYSTEMY LICZBOWE
  ====================================
  Dziesiętny system liczbowy (dziesiątkowy,decymalny,arabski)
